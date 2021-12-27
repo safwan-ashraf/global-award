@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/global-award/static/css/main.b87520a9.chunk.css",
+    "main.js": "/global-award/static/js/main.c0d6def6.chunk.js",
+    "main.js.map": "/global-award/static/js/main.c0d6def6.chunk.js.map",
+    "runtime-main.js": "/global-award/static/js/runtime-main.a2c482c3.js",
+    "runtime-main.js.map": "/global-award/static/js/runtime-main.a2c482c3.js.map",
+    "static/js/2.881c5a8f.chunk.js": "/global-award/static/js/2.881c5a8f.chunk.js",
+    "static/js/2.881c5a8f.chunk.js.map": "/global-award/static/js/2.881c5a8f.chunk.js.map",
+    "static/js/3.07f7d91c.chunk.js": "/global-award/static/js/3.07f7d91c.chunk.js",
+    "static/js/3.07f7d91c.chunk.js.map": "/global-award/static/js/3.07f7d91c.chunk.js.map",
+    "index.html": "/global-award/index.html",
+    "static/css/main.b87520a9.chunk.css.map": "/global-award/static/css/main.b87520a9.chunk.css.map",
+    "static/js/2.881c5a8f.chunk.js.LICENSE.txt": "/global-award/static/js/2.881c5a8f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/global-award/static/media/Gordita Regular.74727069.woff",
+    "static/media/apple.577c4f47.svg": "/global-award/static/media/apple.577c4f47.svg",
+    "static/media/arrow.3c1313b5.svg": "/global-award/static/media/arrow.3c1313b5.svg",
+    "static/media/close.0f761569.svg": "/global-award/static/media/close.0f761569.svg",
+    "static/media/cross - line.971a13ef.svg": "/global-award/static/media/cross - line.971a13ef.svg",
+    "static/media/flaticon.eb779fa1.svg": "/global-award/static/media/flaticon.eb779fa1.svg",
+    "static/media/freepik-logo-.bc987e2e.svg": "/global-award/static/media/freepik-logo-.bc987e2e.svg",
+    "static/media/google.420de670.svg": "/global-award/static/media/google.420de670.svg",
+    "static/media/logo.2b5797a4.png": "/global-award/static/media/logo.2b5797a4.png",
+    "static/media/menu.9baf2fe1.svg": "/global-award/static/media/menu.9baf2fe1.svg",
+    "static/media/pattern - color.81e86dca.svg": "/global-award/static/media/pattern - color.81e86dca.svg",
+    "static/media/pattern - color.cfd0e732.png": "/global-award/static/media/pattern - color.cfd0e732.png",
+    "static/media/spot - image.04fc1133.png": "/global-award/static/media/spot - image.04fc1133.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2c482c3.js",
+    "static/js/2.881c5a8f.chunk.js",
+    "static/css/main.b87520a9.chunk.css",
+    "static/js/main.c0d6def6.chunk.js"
+  ]
+}
